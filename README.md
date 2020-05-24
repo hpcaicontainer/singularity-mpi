@@ -26,4 +26,4 @@ Singularity build openmpi.simg openmpi-ib.sif
 mpirun -np 2 singularity exec openmpi.simg hostname
 ```
 
- **More MPIs to be added....**
+ **More MPIs to be added...**
